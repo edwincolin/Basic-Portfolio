@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+header.fixed{ 
+    position: fixed;
+    top: 0;
+    left: 200;
+    width:100;
+    border-style: none;
+    border-width: 0;
+    text-align: left;
+    background: #ffffff;
+}
+h1 { 
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    position: relative;
+    background-color: #4aaaa5;
+    color: #ffffff
+
+}
+h2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+}
+body { 
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+   background: #fff;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+
